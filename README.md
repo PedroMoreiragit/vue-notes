@@ -1,4 +1,9 @@
-# app
+# Notes
+
+## Start local sever in folder api
+```
+json-server --watch database.json
+```
 
 ## Project setup
 ```
